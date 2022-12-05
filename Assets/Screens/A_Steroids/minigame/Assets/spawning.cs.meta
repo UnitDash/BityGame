@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b2ba27e4ee08cd448f9a2ff7f8c7464
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - firePrefab: {instanceID: 0}
+  - rocks: {instanceID: 0}
+  - coins: {fileID: 5592173981964517104, guid: b791939b8fc5695498ab39ee79e2a880, type: 3}
+  - fireSpawnPointright: {instanceID: 0}
+  - spawnpos: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
